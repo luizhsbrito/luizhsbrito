@@ -12,6 +12,11 @@
 - 💞️ I’m looking to collaborate on Migration and Systems Integration 
 - 📫 How to reach me  @luizsbrito
 
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Angular**
+
+- ⚡ Fun fact **Oneye 😜**
+
 <!---
 luizhsbrito/luizhsbrito is a ✨ special ✨ welcome to my repository, still premature but looking to collaborate with the community  
 --->
