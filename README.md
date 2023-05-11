@@ -8,7 +8,7 @@
 
 - 🔥 systems analyst and developer
 
-- 👀 I’m interested in Java EE and Angular
+- 👀 I’m interested in Java and Angular
 
 - 🌱 I’m currently learning  java EE and Python
 
